@@ -19,8 +19,5 @@
 - Bodybuilding
 - etc...
 
-## 💻 Current project
-- [job board](https://www.thejobnetwork.com/)
-
-## 📚 Learning
-- Node.js microservices
+## 🔗 LinkedIn
+https://www.linkedin.com/in/antonio-kamber-18bbb4186/
