@@ -4,7 +4,7 @@
 ## 💬 Ask me about
 - Frontend web development (React.js, Angular)
 - SSR/CSR (Next.js)
-- SASS ❤️
+- SASS
 - SEO
 - Accessibility
 - Backend web development (Node.js)
