@@ -13,7 +13,7 @@
 - Latest Dev technologies
 
 ## 📅 Hobbies
-- Solve programming problems at Codewars, LeetCode
+- Spending time with my family
 - Learning new frameworks
 - Discovering new libraries
 - Bodybuilding
